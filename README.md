@@ -16,20 +16,9 @@ git clone https://github.com/SunYanCN/Latex-Beamer-Template
 
 敬请参阅`slides.pdf`.
 
-# Tutorials
-
-## 知乎
-
-- [LaTeX制作Beamer(一)](https://zhuanlan.zhihu.com/p/36868831)
-- [LaTeX制作Beamer(二)](https://zhuanlan.zhihu.com/p/39177705)
-
 # Others
 
 这个模板是我参阅的一个南方科技大学的模板，原模板是英文的，我将其修改为中文并加入了常用的算法和表格等内容，在此感谢原作者。
-
-# Me
-
-如果你有任何问题或者有改进的意见也可以联系我：sunyanhust@163.com。
 
 ## Stargazers over time
 
