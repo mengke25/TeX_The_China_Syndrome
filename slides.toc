@@ -1,0 +1,16 @@
+\beamer@sectionintoc {2}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {2}{1}{Conclusion}{4}{0}{1}
+\beamer@subsectionintoc {2}{2}{Background}{5}{0}{1}
+\beamer@subsectionintoc {2}{3}{A Shift-Share Method}{8}{0}{1}
+\beamer@sectionintoc {3}{Data Sources \&measurement}{9}{0}{2}
+\beamer@sectionintoc {4}{Empirical approach}{17}{0}{3}
+\beamer@subsectionintoc {4}{1}{IV Strategy}{18}{0}{3}
+\beamer@subsectionintoc {4}{2}{Result}{20}{0}{3}
+\beamer@sectionintoc {5}{Beyond manufacturing}{22}{0}{4}
+\beamer@subsectionintoc {5}{1}{population effect}{23}{0}{4}
+\beamer@subsectionintoc {5}{2}{employmet effect}{24}{0}{4}
+\beamer@subsectionintoc {5}{3}{Wage effect}{25}{0}{4}
+\beamer@subsectionintoc {5}{4}{Public transfer payment}{27}{0}{4}
+\beamer@subsectionintoc {5}{5}{Household income}{28}{0}{4}
+\beamer@subsectionintoc {5}{6}{Robustness check}{29}{0}{4}
+\beamer@sectionintoc {6}{Conclusion}{32}{0}{5}

@@ -1,0 +1,8 @@
+\frametitle{代码}
+HOSVD在Python的代码实现和分析：
+\lstinputlisting[lastline=11,
+language=Python,
+frame=single,
+caption=First ten lines of some Python code,
+label=python]
+{HOSVD.py}
